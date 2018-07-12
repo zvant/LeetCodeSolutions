@@ -2,4 +2,5 @@
 *.exe
 *.out
 *.pyc
+*.pyo
 *.class
